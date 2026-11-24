@@ -1,0 +1,9 @@
+# Who must review a change, by path. One-person project, so one owner.
+# In a team, each service folder would map to the team that owns it.
+
+*                 @vikascharan0119
+
+/orders-api/      @vikascharan0119
+/payments-stub/   @vikascharan0119
+/loadgen/         @vikascharan0119
+/.github/         @vikascharan0119

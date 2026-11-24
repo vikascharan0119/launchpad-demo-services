@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+.ruff_cache/
+.coverage
+dist/
+*.egg-info/
+
+# Secrets and local env
+.env
+.env.*
+
+# OS / editors
+.DS_Store
+.idea/
+.vscode/
